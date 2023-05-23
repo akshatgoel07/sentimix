@@ -1,0 +1,5 @@
+SpeechRecognition
+librosa
+soundfile
+numpy
+tensorflow-macos

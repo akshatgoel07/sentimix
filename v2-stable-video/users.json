@@ -1,0 +1,49 @@
+[
+    {
+        "name": "Dhairya Marwah",
+        "moods": [
+            {
+                "backgroundColor": "#0178FE",
+                "backgroundColor2": "#1984FF",
+                "mood": "Happy",
+                "date": "30",
+                "month": "04"
+            },
+            {
+                "backgroundColor": "#FFB400",
+                "backgroundColor2": "#FFC947",
+                "mood": "Neutral",
+                "date": "29",
+                "month": "04"
+            },
+            {
+                "backgroundColor": "#0178FE",
+                "backgroundColor2": "#1984FF",
+                "mood": "Happy \ud83d\ude01",
+                "date": "29 ",
+                "month": "April"
+            },
+            {
+                "backgroundColor": "#5D5FEE",
+                "backgroundColor2": "#686AF8",
+                "mood": "Neutral \ud83d\ude36",
+                "date": "28 ",
+                "month": "April"
+            },
+            {
+                "backgroundColor": "#FFB400",
+                "backgroundColor2": "#FFC947",
+                "mood": "Neutral",
+                "date": "27",
+                "month": "04"
+            },
+            {
+                "backgroundColor": "#FFB400",
+                "backgroundColor2": "#FFC947",
+                "mood": "Neutral",
+                "date": "26",
+                "month": "04"
+            }
+        ]
+    }
+]
